@@ -39,7 +39,9 @@ The project was built to practice **Python programming**, **desktop GUI developm
 - Automatic saving of password entries
 - Automatic loading when the application starts
 - JSON-based encrypted storage
-  <img width="378" height="259" alt="image" src="https://github.com/user-attachments/assets/a050f32c-3d15-4ae3-8427-a7d34d74e369" />
+
+  
+<img width="378" height="259" alt="image" src="https://github.com/user-attachments/assets/a050f32c-3d15-4ae3-8427-a7d34d74e369" />
 
 
 ### 🎨 User Interface
